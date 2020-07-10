@@ -26,7 +26,7 @@ function in R. For example, if `X` is a square invertible matrix, then
 `solve(X)` returns its inverse.
 **Note : Detailed description can be found in file Week_3_assignment_guidelines.
 
-# Assignment_part5_finalweek.R contains the code for final week assignment.
+- Assignment_part5_finalweek.R contains the code for final week assignment.
 It contains 3 funcitons : 1. best(state, outcome) - Returns the best hospital for the particular outcome in the state required.
                           2. rankhospital(state, outcome, rank) - Returns the hospital name based on rank and outcome.
                           3. rankall(outcome) - returns a data.frame of hospital name, state for according to their Rate of mortality.
